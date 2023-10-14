@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Project1",
+      "duration": "2019",
+      "location": "Lagos",
+      "imageSrc": "../assets/images/portfolio1.png",
+      "summary": "A final year project on Automated bottle plant",
+      "description": "This is a simulation of a conveyor belt with a sensor that detects defective bottles on the conveyor belt and pushes it aside without too much hastle. It uses technologies by simens and Scada"
+    },
+  
+    {
+      "title": "Project2",
+      "duration": "2023",
+      "location": "Limerick",
+      "imageSrc": "../assets/images/portfolio2.png",
+      "summary": "A website to purchase Manchester United Jerseys",
+      "description": "This website was a project given as an assignment. It uses technologies like Html, Css and Bootstrap to Make the website. The website simply sells Manchester United Jerseys"
+    },
+  
+    {
+      "title": "Project3",
+      "duration": "2023",
+      "location": "Limerick",
+      "imageSrc": "../assets/images/portfolio3.png",
+      "summary": "A Portfolio Website that showcases various projects you have done ",
+      "description": "The portfolio website gives a detailed history on Work experience, Education and Projects done. It also uses this following technologies like HTML and CSS, Bootstrap, JavaScript to add interactive elements to a page and lastly JSON strings to store data"
+    }
+  ]

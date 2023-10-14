@@ -1,0 +1,21 @@
+ [
+ {
+      "nameOfSchool": "SpringField",
+      "graduationYear": "2008",
+      "location": "Ketu"
+    },
+  
+    {
+      "nameOfSchool": "Ronik Comprehensive",
+      "graduationYear": "2014",
+      "location": "Ejigbo"
+    },
+  
+    {
+      "nameOfSchool": "Afebabalola",
+      "graduationYear": "2019",
+      "location": "Ekiti"
+    }
+]
+  
+  

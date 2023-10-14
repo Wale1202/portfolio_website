@@ -1,0 +1,31 @@
+
+.body {
+    background-color: #f8f9fa;
+  }
+
+  .container{
+    background-color: grey;
+  }
+  
+  .category-header {
+    background-color: #6c757d;
+    color: #fff;
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .category-details {
+    margin-bottom: 50px;
+  }
+
+  .work-experience-class{
+    background-color: antiquewhite;
+  }
+  
+  .education-class{
+    background-color: aqua;
+  }
+  .portfolio-class{
+    background-color: rgba(255, 166, 0, 0.573);
+  }
